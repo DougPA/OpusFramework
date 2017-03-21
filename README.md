@@ -1,5 +1,7 @@
 # Opusframework
 
+***** This is a copy of the repo at mdelete/opusframework *****
+
 A combined iOS and OSX framework integrating libopus, libopusfile and libogg.
 
 ## Prepare Project
