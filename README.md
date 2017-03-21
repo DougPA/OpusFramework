@@ -2,6 +2,8 @@
 
 ***** This is a copy of the repo at mdelete/opusframework *****
 
+    Note: it has been modified to only include Opus (not ogg)
+
 A combined iOS and OSX framework integrating libopus, libopusfile and libogg.
 
 ## Prepare Project
